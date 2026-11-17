@@ -1,9 +1,10 @@
-# Modern Achievements - Frontend
+# Modern Achievements — Backend
 
-Project developed by Enricco Gemha.
+> Archived. Kept as an earlier Steam achievement tracker.
 
-Video demonstrating the features of this project: [YouTube video](https://youtu.be/nq-Y2Bx_B-g).
+The Python/Django backend for Modern Achievements, which shows achievement completion for public Steam profiles.
 
-## What's the project?
+Built by Enricco Gemha.
 
-This is the 2-part repository that, in this case, contains the hosted website source code, in React, for the Modern Achievements application. The website is capable of show the percentages of total achievements conquered by the user in his Steam games, if it's a public profile.
+- [Frontend](https://github.com/G3mha/Modern-Achievements-Frontend)
+- [Demo](https://youtu.be/nq-Y2Bx_B-g)
